@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TEMCA APP</string>
+    
+    <!--  Menu Nav Bar  -->
+    <string name="menu_nav_power_cable">Power Cable</string>
+    <string name="menu_nav_conduit">Conduit</string>
+</resources>
